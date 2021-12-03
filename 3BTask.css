@@ -1,0 +1,11 @@
+#map {
+  height: 400px;
+  width: 100%;
+ 
+}
+p,h1,h4{
+	color: #733535;
+}
+body{
+	background: #decccc;
+}

@@ -1,0 +1,15 @@
+.bb{
+	text-align: center;
+	font-family: Arial;
+	color: #4d3030;
+}
+ul,li{
+	color: #4d3030;
+
+}
+body{
+	background: #decccc;
+}
+h1{
+	text-decoration: underline;
+}
